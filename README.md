@@ -15,6 +15,8 @@ Interested in Data Science and Machine Learning.
 |     |--notMNIST (letters image classification)
 |     |
 |     |--House_regression (Price prediction of Houses)
+|     |
+|     |--US_Voting_Prediction (Predicting candidate votes using Pew Research)
 |
 |--Dkale0 (config files)
 </pre>
